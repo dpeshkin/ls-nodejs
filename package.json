@@ -1,0 +1,28 @@
+{
+  "name": "HomeWorks",
+  "version": "1.0.0",
+  "description": "В этом репозитории собраны домашки [курса по node.js](https://loftschool.com/course/nodejs).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekb196/ls-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekb196/ls-nodejs/issues"
+  },
+  "homepage": "https://github.com/ekb196/ls-nodejs#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
